@@ -3,3 +3,6 @@ virtual/
 
 #ignore the compiled python files
 *.pyc
+
+#ignore the instance directory
+instance/
